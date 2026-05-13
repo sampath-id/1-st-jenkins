@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Hello') {
       steps {
-        sh 'echo "Hello  samp from Jenkins CI/CD"'
+        sh 'echo "Hello  samp from Jenkins CI-CD"'
       }
     }
   }
